@@ -1,0 +1,7 @@
+day,day_name,day_order,is_weekday
+Mon,Monday,1,True
+Tue,Tuesday,2,True
+Wed,Wednesday,3,True
+Thu,Thursday,4,True
+Fri,Friday,5,True
+Sat,Saturday,6,False

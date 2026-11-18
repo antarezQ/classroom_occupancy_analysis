@@ -1,0 +1,56 @@
+class_group,program,faculty
+AB-47-INT,S1 Administrasi Bisnis ( International Class ),FKS
+AB-48-INT,S1 Administrasi Bisnis ( International Class ),FKS
+AB-49-INT,S1 Administrasi Bisnis ( International Class ),FKS
+BS1AB-48-REG-01-INT,S1 Administrasi Bisnis ( International Class ),FKS
+BS1AB-50-REG-01-INT,S1 Administrasi Bisnis ( International Class ),FKS
+BS1AK-47-REG-INT,S1 Akuntansi,FEB
+BS1AK-48-REG-01-INT,S1 Akuntansi,FEB
+BS1AK-48-REG-INT,S1 Akuntansi,FEB
+BS1AK-49-REG-INT,S1 Akuntansi,FEB
+BS1AK-50-REG-INT,S1 Akuntansi,FEB
+BS1DK-47-INT-01,S1 DKV International,FIK
+BS1DK-48-INT-01,S1 DKV International,FIK
+BS1DK-48-REG-01-INT,S1 DKV International,FIK
+BS1DK-49-INT-01,S1 DKV International,FIK
+BS1DK-49-REG-01-INT,S1 DKV International,FIK
+BS1DK-50-INT-01,S1 DKV International,FIK
+BS1IF-47-REG-01-INT,S1 Informatika,FIF
+BS1IF-48-INT01,S1 Informatika,FIF
+BS1IF-48-REG-01-INT,S1 Informatika,FIF
+BS1IF-49-INT01,S1 Informatika,FIF
+BS1IF-50-INT01,S1 Informatika,FIF
+BS1IT-49-REG-01-INT,S1 Teknologi Informasi,FIF
+BS1IT-50-REG-01-INT,S1 Teknologi Informasi,FIF
+BS1KM-50-INT01,S1 Ilmu Komunikasi,FKS
+BS1KM-50-REG-AKK01-INT,S1 Ilmu Komunikasi,FKS
+BS1KM-50-REG-AKP01-INT,S1 Ilmu Komunikasi,FKS
+BS1MB-47-REG-01-INT,S1 International ICT Business,FEB
+BS1MB-47-REG-02-INT,S1 International ICT Business,FEB
+BS1MB-48-REG-01-INT,S1 International ICT Business,FEB
+BS1MB-48-REG-02-INT,S1 International ICT Business,FEB
+BS1MB-49-REG-01-INT,S1 International ICT Business,FEB
+BS1MB-49-REG-02-INT,S1 International ICT Business,FEB
+BS1MB-50-REG-01-INT,S1 International ICT Business,FEB
+BS1MB-50-REG-02-INT,S1 International ICT Business,FEB
+BS1SI-47-REG-01-INT,S1 Sistem Informasi,FRI
+BS1SI-48-REG-01-INT,S1 Sistem Informasi,FRI
+BS1SI-49-REG-01-INT,S1 Sistem Informasi,FRI
+BS1SI-50-REG-INT,S1 Sistem Informasi,FRI
+BS1TE-47-REG-01-INT,S1 Teknik Elektro,FTE
+BS1TE-48-REG-01-INT,S1 Teknik Elektro,FTE
+BS1TE-49-REG-01-INT,S1 Teknik Elektro,FTE
+BS1TE-50-REG-01-INT,S1 Teknik Elektro,FTE
+BS1TI-47-REG-01-INT,S1 Teknik Industri,FRI
+BS1TI-48-REG-01-INT,S1 Teknik Industri,FRI
+BS1TI-49-REG-01-INT,S1 Teknik Industri,FRI
+BS1TI-49-REG-02-INT,S1 Teknik Industri,FRI
+BS1TI-50-REG-01-INT,S1 Teknik Industri,FRI
+BS1TT-47-REG-01-INT,S1 Teknik Telekomunikasi,FTE
+BS1TT-48-REG-01-INT,S1 Teknik Telekomunikasi,FTE
+BS1TT-49-REG-01-INT,S1 Teknik Telekomunikasi,FTE
+BS1TT-50-REG-01-INT,S1 Teknik Telekomunikasi,FTE
+ESyP,LAC,LAC
+KM-47-INT,S1 Ilmu Komunikasi,FKS
+KM-48-INT,S1 Ilmu Komunikasi,FKS
+KM-49-INT,S1 Ilmu Komunikasi,FKS
