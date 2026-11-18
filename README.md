@@ -2,9 +2,11 @@
 
 How the international classrooms at Gedung Tokong Nanas, Telkom University, are really used, and how they could be shared by faculty. Based on the real timetable for the odd semester 2026/2027 (290 weekly classes).
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://icao-classroom-occupancy.streamlit.app/)
+
 ## Background
 
-Before the renovation the international classes had 34 to 36 classrooms on floors 3 and 9. After it there will be **32**: 20 on floor 3 and 12 on floor 2. The International Class Academic Office (ICAO) noticed that many rooms sit unused, some for whole days, while others are always full. International student numbers are not expected to grow much in the next ten years.
+Before the renovation the international classes had 34 to 36 classrooms on floors 3 and 9. After it there will be **32**: 20 on floor 3 and 12 on floor 2. The International Class Academic Office (ICAO) noticed that many rooms sit unused, some for whole days, while others are always full. Two of the rooms are given up to expand the international student lounge, a space the office wants as part of its international branding. Student numbers are still expected to grow, so the question is whether 32 rooms are enough today and leave room for that growth.
 
 The analysis answers three questions:
 1. **How are the rooms used today?**
@@ -52,7 +54,7 @@ Rooms use the planned codes after the renovation (still subject to change). Each
 
 ![Most rooms in use at once](images/analysis/peak_vs_32.png)
 
-Yes. At most 25 rooms are in use at the same moment, so 32 leaves 7 free even at the peak. Going from 34 or 36 rooms down to 32 is not a problem.
+Yes. At most 25 rooms are in use at the same moment, so 32 leaves 7 free even at the peak. Giving two rooms to the student lounge is not a problem, and those 7 rooms are the room left for more classes as student numbers grow.
 
 ## Recommendations
 
@@ -69,7 +71,7 @@ Yes. At most 25 rooms are in use at the same moment, so 32 leaves 7 free even at
 
 ## Dashboard
 
-`app.py` is a Streamlit dashboard for the office staff:
+`app.py` is a Streamlit dashboard for the office staff. Live version: [icao-classroom-occupancy.streamlit.app](https://icao-classroom-occupancy.streamlit.app/)
 
 | Tab | What it does |
 |---|---|
